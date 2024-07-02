@@ -1,2 +1,2 @@
 # project1
-for practice
+for practice linux and  git 
